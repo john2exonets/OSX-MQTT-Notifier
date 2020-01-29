@@ -3,7 +3,6 @@
 //
 // John D. Allen
 // Sept 2016
-// F5 Networks
 //
 // Node-Notifier:  https://github.com/mikaelbr/node-notifier
 //
